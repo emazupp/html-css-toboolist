@@ -80,7 +80,7 @@ li {
 }
 
 .section-container {
-    padding-top: 30px;
+    padding-top: 20px;
     margin-top: 3px;
     padding-bottom: 20px;
     border-bottom-left-radius: 5px;
@@ -126,5 +126,5 @@ li {
 }
 
 .section {
-    
+    margin-top: 20px;
 }
