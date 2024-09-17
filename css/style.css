@@ -30,7 +30,7 @@ li {
 
 .container-upper-header {
     line-height: 70px;
-    width: 1200px;
+    width: 1000px;
 }
 
 .container {
@@ -52,7 +52,7 @@ li {
 /* main */
 
 .main-container {
-    width: 1000px;
+    width: 800px;
     background-color: white;
     padding-left: 50px;
 }
@@ -127,4 +127,12 @@ li {
 
 .section {
     margin-top: 20px;
+}
+
+.task-type {
+    border: none;
+    border-radius: 100px;
+    font-size: .6rem;
+    color: white;
+    background-color: #40A8F1;
 }
