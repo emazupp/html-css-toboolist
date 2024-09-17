@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: grey;
+    background-color: #F6F8FA;
     max-width: 100%;
 }
 
@@ -130,9 +130,35 @@ li {
 }
 
 .task-type {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0px 10px;
+    display: inline-block;
     border: none;
-    border-radius: 100px;
+    border-radius: 10px;
     font-size: .6rem;
     color: white;
+}
+
+.editorial {
     background-color: #40A8F1;
+}
+
+.q1goals {
+    background-color: #9B7CE3;
+}
+
+.recruiting {
+    background-color: #5EB4A4;
+}
+
+.mobile {
+    background-color: #F19E40;
+}
+
+.website {
+    background-color: #E0739E;
+}
+
+.sales {
+    background-color: #B1BD24;
 }
