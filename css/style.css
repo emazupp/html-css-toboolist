@@ -8,4 +8,37 @@
 
 body {
     background-color: grey;
+    max-width: 100%;
 }
+
+ /* header */
+
+.upper-header {
+    height: 60px;
+    background-color: white;
+    max-width: 100%;
+}
+
+.container-upper-header {
+    line-height: 60px;
+    width: 1300px;  
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.logo-img {
+    height: 40px;
+    vertical-align: middle;
+}
+
+.page-title {
+    display: inline;
+    vertical-align: middle;
+    font-size: 2.1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* main */
+
